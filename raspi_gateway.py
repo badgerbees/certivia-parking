@@ -17,7 +17,7 @@ import sys
 from datetime import datetime
 
 # Configuration
-BACKEND_URL = "https://api.parking.certivia.id"  # Vercel backend
+BACKEND_URL = "https://api.parking.certivia.id"  
 DEVICE_KEY = "PI_GATEWAY_01"  # Must match backend DEVICE_KEY
 REQUEST_TIMEOUT = 3  # seconds
 
